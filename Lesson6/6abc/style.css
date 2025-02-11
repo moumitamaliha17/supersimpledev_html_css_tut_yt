@@ -1,0 +1,24 @@
+p {
+	font-family: Arial;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.name {
+	font-weight: bold;
+	margin-bottom: 6px;
+}
+
+.handle {
+	color: gray;
+	font-weight: 300;
+}
+
+.description {
+	margin-bottom: 20px;
+	width: 80%;
+}
+
+.handle-2 {
+	color: #34abeb;
+}
